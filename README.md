@@ -59,4 +59,4 @@ so after all this we have now created rules for intrusion,malware,spike and unco
 
 After training normally on various algorithms of classification i found out that is_threat = 0 is falling in minority so i used oversampling techniques i.e **SMOTE** for this and model improved its perfomance among them best model coming out was RF .
 
-DashBoard for visulaizing different netwoek threats for 1hr,12hr,24hr : [https://networkthreatanalysis-5zauduqwqexr6zizdnkqym.streamlit.app/# network-threat-analysis](https://network-threat-analysis-khoyyfzjpmcp3tnutcza9d.streamlit.app/)
+DashBoard for visulaizing different netwoek threats for 1hr,12hr,24hr :https://network-threat-analysis-khoyyfzjpmcp3tnutcza9d.streamlit.app/
